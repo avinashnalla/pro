@@ -32,7 +32,7 @@
             <configuration>
                 <url>http://localhost:8090/manager</url>
                 <server>localhost</server>
-                <path>/E:\Git\pro\pro\src\main\webapp\WEB-INF</path>
+                <path>/E:\Git\pro\pro\src\main\webapp</path>
             </configuration>
    </dependency>
 </project>
